@@ -1,0 +1,11 @@
+{
+  "name": "atatago-skills",
+  "owner": { "name": "atatago" },
+  "plugins": [
+    {
+      "name": "governance",
+      "source": "./plugins/governance",
+      "description": "ガバナンス文書(憲法・法律・哲学・細則)の作成と見直し"
+    }
+  ]
+}

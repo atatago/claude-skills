@@ -1,0 +1,7 @@
+{
+  "name": "governance",
+  "version": "0.1.0",
+  "description": "AI と進めるプロジェクトのガバナンス文書(憲法・法律・哲学・細則)を作成し、振り返って見直すためのスキル",
+  "author": { "name": "atatago" },
+  "license": "MIT"
+}
