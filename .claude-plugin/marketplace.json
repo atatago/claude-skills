@@ -1,6 +1,9 @@
 {
   "name": "atatago-skills",
-  "owner": { "name": "atatago" },
+  "description": "Agent Skills for Claude Code / Claude.ai — governance docs (constitution, laws, philosophy) and more",
+  "owner": {
+    "name": "atatago"
+  },
   "plugins": [
     {
       "name": "governance",
